@@ -1,0 +1,14 @@
+# Sanal Ortam
+.venv/
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Hassas Bilgiler
+.env
+
+# İndirilen Sürücüler
+chromedriver.exe
+chromedriver
