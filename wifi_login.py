@@ -153,8 +153,8 @@ try:
     print("✓ Bağlantı isteği gönderildi")
     
     # Bağlantı Kontrolü
-    print("\n⏳ Bağlantı kuruluyor (40 saniye)...")
-    time.sleep(40)
+    print("\n⏳ Bağlantı kuruluyor (27 saniye)...")
+    time.sleep(27)
     
     try:
         driver.get("http://www.github.com/menasy")
