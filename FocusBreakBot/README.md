@@ -59,7 +59,7 @@ Proje kökünde `/.env` dosyasını oluştur (veya `.env.example`’ı kopyalay�
 
 ```env
 TG_BOT_TOKEN=1234567890:ABCDEF-GHIJKLMN_opQRStuvWXyz
-TG_CHAT_ID=7390410320
+TG_CHAT_ID=1234567890
 VERCEL_PRAYER_TIME_API_URL=https://vakit.vercel.app/api/timesFromCoordinates?lat=41.0082&lng=28.9784
 ```
 
