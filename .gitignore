@@ -1,14 +1,26 @@
-# Sanal Ortam
-.venv/
-venv/
-
-# Python Cache
+# Python genel
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
 
-# Hassas Bilgiler
+# Ortak gizli dosyalar
 .env
+.env.*
+*.env
+*.log
+log.txt
 
-# İndirilen Sürücüler
-chromedriver.exe
-chromedriver
+# VSCode ve sistem dosyaları
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Bat ve script dosyaları hariç, hassas dosyalar
+!*.bat
+!*.vbs
